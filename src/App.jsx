@@ -245,21 +245,54 @@ knowledge with practical applications, the academy prepares
     </li>
 
 
-    <li className="card">
+   <li className="card">
     <div>
         <div className="card-content">
-        {/*<img src={logo} className='card_watermark'/>*/}
+      
 
            <div className="card_head">
-            <img src={designer} alt="" style={{objectPosition: "0.01rem 0.1rem"}}/>
+            <img src={cmo} alt="" style={{objectPosition:"-3rem 0.1rem"}}/>
             <div className="card_head_text">
             <p id='name'>Abhishek Srujan Paul</p>
-             <p id='posi'>Chief Marketing Officer, VectorX Academy</p>  
+            <p id='posi'>Chief Marketing Officer, VectorX Academy</p>  
             </div>
             
            </div>
       
-          <p id='aboutsometext' style={{padding:"3rem 3rem 5.45rem 3rem"}}>Abhishek Srujan Paul, a student of NIT Trichy and the Chief Marketing Officer of VectorX Academy, plays a pivotal role in expanding the academy's reach to ambitious students. He is the driving force behind its publicity and is responsible for devising innovative marketing strategies that contribute to the academy's growth and success.
+          <p id='aboutsometext' style={{padding:"3rem 3rem 5.0rem 3rem"}}>Abhishek Srujan Paul, a student of NIT Trichy and the Chief Marketing Officer of VectorX Academy, plays a pivotal role in expanding the academy's reach to ambitious students. He is the driving force behind its publicity and is responsible for devising innovative marketing strategies that contribute to the academy's growth and success.</p>
+        {/*<p id="aboutsometext2">With a vision to revolutionize physics education, he plans to expand VectorX Academy into a premier learning platform, integrating innovative teaching methods and high-quality content. Over the coming years, he aims to mentor thousands of students, helping them excel in national and international competitive exams.</p>*/}
+        </div>
+      </div>
+      <div className="card-link-wrapper">
+  <div className="butcontainer">
+  <a><i className="fa-brands fa-facebook" style={{color:"rgb(12, 96, 223)"}}></i></a>
+  <a><i className="fa-brands fa-instagram" style={{color:"rgb(191, 12, 96)"}}></i></a>
+  <a><i className="fa-brands fa-linkedin" style={{color:"blue"}}></i></a>
+  <a><i className="fa-brands fa-square-x-twitter">
+  
+  </i>
+  </a>
+  </div>
+      </div>
+    </li>
+
+
+
+    <li className="card">
+    <div>
+        <div className="card-content">
+    
+
+           <div className="card_head">
+            <img src={designer} alt="" style={{objectPosition: "0.01rem 0.04rem",width:"10.5rem"}}/>
+            <div className="card_head_text">
+            <p id='name'>Ankit Minz</p>
+             <p id='posi'>Editor and Social Media Influencer, VectorX Academy</p>  
+            </div>
+            
+           </div>
+      
+          <p id='aboutsometext' style={{padding:"3rem 3rem 5.1rem 3rem"}}>I am a Creative and detail-oriented Video Editor, Thumbnail Designer, and YouTube Manager with a passion for crafting engaging visual content. Experienced in managing YouTube channels, optimizing content for growth, and designing eye-catching thumbnails that boost click-through rates.
           </p>
         {/*<p id="aboutsometext2">With a vision to revolutionize physics education, he plans to expand VectorX Academy into a premier learning platform, integrating innovative teaching methods and high-quality content. Over the coming years, he aims to mentor thousands of students, helping them excel in national and international competitive exams.</p>*/}
         </div>
